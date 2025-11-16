@@ -1,0 +1,49 @@
+# Visual Studio
+*.user
+*.suo
+*.ipch
+*.pch
+*.obj
+*.pdb
+*.exe
+*.dll
+*.log
+*.vs/
+bin/
+obj/
+Debug/
+Release/
+*.cache
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.dbmdl
+
+# Файлы IntelliSense
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opendb
+
+# Временные
+*.tmp
+*.temp
+~*
+
+# Лог-файлы
+*.log
+
+# Папки специфические для проектов C#
+/TestResults/
+*.vssscc
+
+# IDE и прочее
+.vscode/
+.idea/
+*.swp
+
+# Ресурсы, не нужные в репозитории
+Thumbs.db
+desktop.ini
